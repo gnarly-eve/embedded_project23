@@ -1,2 +1,2 @@
-# AIBC_2023
-The database of 2023 Junior Engr Clinic project. The purpose of this project is to compute a TIL score after applying detection and segmentation methods on WS images. In addition, we used the Pearson correlation coefficient to improve the TIL's reliability. 
+# Embedded Project 2023
+This is the project's code that was used. It is a working progress and the purpose is to create a system for smart agriculture related work,
